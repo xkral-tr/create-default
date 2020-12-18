@@ -1,0 +1,13 @@
+{
+    "defaultSettings": {
+        "configName": "default",
+        "default": false,
+        "_dependencies": [],
+        "_devDependencies": [],
+        "author": "",
+        "tree": [],
+        "scripts": {},
+        "main": "index.js",
+        "package_manager": "npm"
+    }
+}
