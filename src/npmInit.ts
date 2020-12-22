@@ -3,7 +3,6 @@ import execa from 'execa';
 import ora, { Ora } from 'ora';
 import chalk from 'chalk';
 import path from 'path';
-import { AnyARecord } from 'dns';
 
 const installDependencies = (
     start: string,
